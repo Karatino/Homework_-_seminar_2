@@ -5,12 +5,15 @@
 1 -> нет
 */
 
-void OthirNumber ();
-{
-Console.Write("Введите число от 1-7: ");
-int number = int.Parse(Console.ReadLine());
 
-        switch (number)
+
+Console.Write("Введите число от 1-7: ");
+int num = int.Parse(Console.ReadLine());
+
+void Week(int num){
+
+
+        switch (num)
                 {
                 case 1:
                     Console.WriteLine("Понедельник будни");
@@ -44,4 +47,4 @@ int number = int.Parse(Console.ReadLine());
                     break;
                 }
 }
-                 
+Week(num);

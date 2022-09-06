@@ -8,7 +8,7 @@
 Console.Write("Введите число состоящие из трех или более знаков: ");
 int num = int.Parse(Console.ReadLine());
 
-void Result(int num1){
+void Third_digit(int num){
 
 if (num > 99 || num < -99)
 
@@ -27,4 +27,4 @@ else
         Console.WriteLine($"Третьей цифры нет");
     }
 }
-Result(num);
+Third_digit(num);

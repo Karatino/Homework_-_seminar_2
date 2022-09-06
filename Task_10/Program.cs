@@ -7,6 +7,10 @@
 Console.Write("Введите трехзначное число: ");
 int number = int.Parse(Console.ReadLine());
 
+void Second_digit(int number){
+
 number = (number / 10) % 10;
 
 Console.WriteLine($"Втора цифра этого числа {number}");
+}
+Second_digit(number);
