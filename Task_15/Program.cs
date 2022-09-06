@@ -5,6 +5,8 @@
 1 -> нет
 */
 
+void OthirNumber ();
+{
 Console.Write("Введите число от 1-7: ");
 int number = int.Parse(Console.ReadLine());
 
@@ -41,5 +43,5 @@ int number = int.Parse(Console.ReadLine());
                     Console.WriteLine("Вы ввели число не из диапазона 1-7. Повторите попытку");
                     break;
                 }
+}
                  
-    
