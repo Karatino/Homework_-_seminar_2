@@ -1,0 +1,15 @@
+D:\С#\Семинар\Homework_С#_seminar_2\Task_15\bin\Debug\net6.0\Task_15.exe
+D:\С#\Семинар\Homework_С#_seminar_2\Task_15\bin\Debug\net6.0\Task_15.deps.json
+D:\С#\Семинар\Homework_С#_seminar_2\Task_15\bin\Debug\net6.0\Task_15.runtimeconfig.json
+D:\С#\Семинар\Homework_С#_seminar_2\Task_15\bin\Debug\net6.0\Task_15.dll
+D:\С#\Семинар\Homework_С#_seminar_2\Task_15\bin\Debug\net6.0\Task_15.pdb
+D:\С#\Семинар\Homework_С#_seminar_2\Task_15\obj\Debug\net6.0\Task_15.csproj.AssemblyReference.cache
+D:\С#\Семинар\Homework_С#_seminar_2\Task_15\obj\Debug\net6.0\Task_15.GeneratedMSBuildEditorConfig.editorconfig
+D:\С#\Семинар\Homework_С#_seminar_2\Task_15\obj\Debug\net6.0\Task_15.AssemblyInfoInputs.cache
+D:\С#\Семинар\Homework_С#_seminar_2\Task_15\obj\Debug\net6.0\Task_15.AssemblyInfo.cs
+D:\С#\Семинар\Homework_С#_seminar_2\Task_15\obj\Debug\net6.0\Task_15.csproj.CoreCompileInputs.cache
+D:\С#\Семинар\Homework_С#_seminar_2\Task_15\obj\Debug\net6.0\Task_15.dll
+D:\С#\Семинар\Homework_С#_seminar_2\Task_15\obj\Debug\net6.0\refint\Task_15.dll
+D:\С#\Семинар\Homework_С#_seminar_2\Task_15\obj\Debug\net6.0\Task_15.pdb
+D:\С#\Семинар\Homework_С#_seminar_2\Task_15\obj\Debug\net6.0\Task_15.genruntimeconfig.cache
+D:\С#\Семинар\Homework_С#_seminar_2\Task_15\obj\Debug\net6.0\ref\Task_15.dll
